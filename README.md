@@ -10,7 +10,7 @@ Full-time dreamer and engineer but mostly traveling, listening to MCR and drinki
 
 📍 Currently working as an iOS Product Engineer @ [Amie](https://www.amie.so)
 
-We are currently making the productivity app of your dreams ✨🪐☁️
+Can you keep a secret? We are making the productivity app of your dreams ✨🪐☁️
 
 <!--
 **literallysofia/literallysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
