@@ -1,6 +1,6 @@
 ### Hello stranger, I'm Sofia! 👋
 
-Full-time dreamer ✨🪐 and engineer 🔍 but probably traveling, listening to MCR and drinking matcha 🍵
+Full-time dreamer and engineer but mostly traveling, listening to MCR and drinking matcha 🍵
 
 #### 👩‍💻 Recent projects
 
@@ -8,7 +8,9 @@ Full-time dreamer ✨🪐 and engineer 🔍 but probably traveling, listening to
 - [WebWire](https://github.com/literallysofia/webwire): A tool capable of generating images of hand-drawn wireframes from real websites
 - [literallysofia.github.io](https://literallysofia.github.io): An online resume and portfolio based on Gatsby and React
 
-📍 Currently working as an iOS Product Enginner @ [Amie](https://www.amie.so)
+📍 Currently working as an iOS Product Engineer @ [Amie](https://www.amie.so)
+
+We are currently making the productivity app of your dreams ✨🪐☁️
 
 <!--
 **literallysofia/literallysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
