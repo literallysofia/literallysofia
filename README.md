@@ -1,29 +1,17 @@
-### Hello, I'm Sofia! 👋
+### hello!! i'm sofia 🪐
 
-Full-time engineer but always on my yoga mat, walking my dog, going to concerts, traveling and drinking matcha ✨
+senior iOS engineer, building calm, joyful apps for real people 🕯️
 
-It keeps me grounded, focused, and sane in a very tech-shaped world.
+- **now** · [Qonto](https://qonto.com/en), pricing team
+- **before** · [Amie](https://amie.so) · [Waitrose](https://www.waitrose.com)
 
-📍 Senior iOS Engineer @ [Qonto](https://qonto.com/en)
+#### 🧶 things i've made
 
-#### 👩‍💻 Projects
+- [my website](https://literallysofia.github.io): apps, music, and life off screen
+- [WebWire](https://github.com/literallysofia/webwire): websites → hand-drawn wireframes
 
-- [literallysofia.github.io](https://literallysofia.github.io): An online resume and portfolio based on Astro
-- [Porto Campus Studios](https://portocampustudios.com): A website to showcase housing for students in Porto, Portugal
-- [Master Thesis](https://hdl.handle.net/10216/128542): Automatic Generation of Synthetic Website Wireframe Datasets from Source Code
-- [WebWire](https://github.com/literallysofia/webwire): A tool capable of generating images of hand-drawn wireframes from real websites
+#### 🍵 off screen
 
-<!--
-**literallysofia/literallysofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yoga · concerts · matcha · long fantasy books · dogs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/sofialcfsilva) 💜
