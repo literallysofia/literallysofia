@@ -1,4 +1,4 @@
-### hello!! i'm sofia 🪐
+### hello!! i'm sofia 🌙
 
 senior iOS engineer, building calm, joyful apps for real people 🕯️
 
